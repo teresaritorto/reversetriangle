@@ -1,6 +1,3 @@
-
-#!/usr/bin/env ruby
-
 class Average
     @game_rankings = {
         "The Legend of Zelda: Ocarina of Time" => 0.9754, 
