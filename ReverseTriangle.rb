@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 class ReverseTriangle
     attr_reader :size
 
